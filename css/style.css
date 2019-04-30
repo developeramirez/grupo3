@@ -76,8 +76,15 @@ text-align: left;
 }
 
 #h1{
-	font-size:12px; 
-	background-color: #CD5C5C;
-	text-align: center;
+  font-size:12px;
+  background-color: #CD5C5C;
+  text-align: center;
 }
 
+.news{
+  font-size: 14pt;
+}
+
+.titular{
+  color: #ff8c2e;
+}
