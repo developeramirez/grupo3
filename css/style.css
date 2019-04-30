@@ -1,9 +1,61 @@
+body{
+  font-family: sans-serif;
+}
+
 #image{
-	
-	height: 300px;
-	width: 300px;
+
+  height: 300px;
+  width: 300px;
 }
 
 #wap{
   width: 100px; height: 100px;
+}
+
+.form{
+  background-color: #fff;
+  box-shadow: 10px 10px 30px #dddddd;
+  border-radius: 5px;
+  padding: 20px;
+  width: 80%;
+}
+
+.form h1{
+  color: #008ed4;
+  font-weight: bolder;
+  font-size: 28pt;
+}
+
+.form label{
+  text-align: right;
+  font-size: 14pt;
+  margin: 5px;
+}
+
+.form input{
+  border-radius: 5px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.form span{
+  width: 80%;
+  text-align: center;
+}
+
+.form textarea{
+  border-radius: 8px;
+  resize: none;
+  padding: 8px;
+}
+
+.form button{
+  border: none;
+  background-color: #99b800;
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 12px;
+  font-size: 12pt;
+  font-weight: bold;
+  color: white;
 }
